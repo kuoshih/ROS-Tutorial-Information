@@ -1,7 +1,7 @@
 # ROS-Tutorial-Information
 
 ## Abstract
-This file gives the ROS tutorial information of MRL, NCU, Taiwan.
+This file gives the ROS tutorial information of Math Robotics Lab (MRL), National Central Univerity (NCU), Taiwan.
 
 ## About us
 Developer:   
