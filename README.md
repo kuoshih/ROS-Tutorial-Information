@@ -17,7 +17,7 @@ https://www.virtualbox.org/ (or Google：Virtualbox)
 2018 version: https://reurl.cc/R9vpe  
 2021 version: ????  
 
-## sample code of Minibot and Turtlebot
+## Sample code of Minibot and Turtlebot
 There are Minibots and Turtlebots in MRL.  
 We provide C++ and Python sample code as follows:  
 Python for TB3 & minibot: https://github.com/MathRoboticsLab/hypharos_minibot_turtlebot_python_sample   
