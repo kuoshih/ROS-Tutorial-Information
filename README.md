@@ -27,7 +27,8 @@ C++ for minibot: https://github.com/kuoshih/hypharos_minibot
 ## Slides of ROS tutorial
 MRL holds ROS tutorial each semester since 2018 Fall in NCU.  
 The slides are as follows:  
-2022.02.25 https://hackmd.io/kkDk6cStQDqhHmVA9lpMtQ?view
+2022.02.25 https://hackmd.io/kkDk6cStQDqhHmVA9lpMtQ?view  
+2022.09.27 https://hackmd.io/@Mes/RosTutorial_Intro
 
 
 
