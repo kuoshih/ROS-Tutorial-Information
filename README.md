@@ -24,6 +24,11 @@ Python for TB3 & minibot: https://github.com/MathRoboticsLab/hypharos_minibot_tu
 C++ for TB3: https://github.com/MathRoboticsLab/turtlebot3_sample    
 C++ for minibot: https://github.com/kuoshih/hypharos_minibot   
 
+How to use VM as host for Turtlebot (made by 鄭詠澤)  
+https://github.com/NcuMathRoboticsLab/MRL_Turtlebot_host   
+Step by step video: https://www.youtube.com/watch?v=sj0ARlou-7A  
+
+
 ## Slides of ROS tutorial
 MRL holds ROS tutorial each semester since 2018 Fall in NCU.  
 The slides are as follows:  
