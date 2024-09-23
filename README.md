@@ -29,6 +29,8 @@ How to use VM as host for Turtlebot (made by 鄭詠澤)
 https://github.com/NcuMathRoboticsLab/MRL_Turtlebot_host   
 Step by step video: https://www.youtube.com/watch?v=sj0ARlou-7A  
 
+Sample code for TB3 & minibot (made by 張羽辰)   
+https://github.com/NcuMathRoboticsLab/ROS_tutorial_sample_code   
 
 ## Slides of ROS tutorial
 MRL holds ROS tutorial each semester since 2018 Fall in NCU.  
