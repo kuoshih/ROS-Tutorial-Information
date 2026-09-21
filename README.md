@@ -37,7 +37,8 @@ MRL holds ROS tutorial each semester since 2018 Fall in NCU.
 The slides are as follows:  
 2022.02.25 https://hackmd.io/kkDk6cStQDqhHmVA9lpMtQ?view  
 2022.09.27 https://hackmd.io/@Mes/RosTutorial_Intro  
-2023.05.01 https://hackmd.io/@Willyee/HkVD0_qX2#/
+2023.05.01 https://hackmd.io/@Willyee/HkVD0_qX2#/  
+2026.09.21 https://hackmd.io/@AndyXue/r1QOJ0BOxg#/ 
 
 
 
